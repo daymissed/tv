@@ -22,6 +22,19 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/01.m3u8?fmt=ts2
 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226319/01.m3u8?fmt=ts2hls$江西移动
 
+#EXTINF:-1 ,南昌新闻综合
+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2hls$江西移动
+
+#EXTINF:-1 ,南昌都市
+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls$江西移动
+
+#EXTINF:-1 ,南昌资讯
+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls$江西移动
+
+
 #  2024-05-21
 已失效!!! CHC动作电影、CHC家庭影院、CHC影迷电影三个频道IPV6地址，只有网络为IPV6地址才可以播放。
 #  2024-02-08
