@@ -55,8 +55,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls$江西移动
 #EXTINF:-1 ,江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西影视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,江西新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,江西经济
