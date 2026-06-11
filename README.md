@@ -7,7 +7,8 @@
 
 
 
-# 江西YD网络直播地址:https://ghfast.top/https://raw.githubusrcontent.com/daymissed/tv/main/tv.m3u
+# 江西YD网络直播地址:
+https://ghfast.top/https://raw.githubusercontent.com/daymissed/tv/main/tv.m3u
 
 ## 更新日志
 #  2026-06-08
